@@ -4,4 +4,4 @@ With only a few clicks of a button---possibly 3, you get access to the entire un
 Ignite your engine, join the crews~
 
 ### Release
-</br>[Latest]https://github.com/honunu/CyberMetro/releases
+[Latest](https://github.com/honunu/CyberMetro/releases)
