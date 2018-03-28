@@ -3,5 +3,5 @@
 With only a few clicks of a button---possibly 3, you get access to the entire underground system.
 Ignite your engine, join the crews~
 
-### Release
-[Latest](https://github.com/honunu/CyberMetro/releases)
+### Download
+[Release version](https://github.com/honunu/CyberMetro/releases)
